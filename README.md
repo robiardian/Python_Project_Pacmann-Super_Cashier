@@ -94,23 +94,45 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
    Output :
    ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/708903c1-f44d-4037-b0d6-39e39688f99c)
 
-## Kesimpulan
+# Kesimpulan
 
-1. Beberapa method dalam kode:
-   - `add_item()`: Menambahkan item baru ke dictionary.
-   - `update_item()`: Membuka menu update item dan memungkinkan perubahan nama, jumlah, atau harga item.
-   - `delete_item()`: Menghapus item dari dictionary.
-   - `reset_transaction()`: Menghapus semua item dan transaction ID.
-   - `check_order()`: Menampilkan daftar item dan total harga.
-   - `total_price()`: Menghitung total harga, menerapkan diskon, dan menampilkan struk pembayaran.
+## Sistem Kasir Sederhana
 
-2. Beberapa menu dalam kode:
-   - Tambah Item
-   - Update Item
-   - Hapus Item
-   - Reset Transaksi
-   - Check Order
-   - Bayar
-   - Keluar
+Program ini adalah implementasi sederhana dari sistem kasir yang memungkinkan pengguna untuk menambah, mengupdate, menghapus item, serta melakukan berbagai operasi terkait transaksi seperti reset transaksi, pemeriksaan pesanan, dan pembayaran. Program ini menggunakan Python dan memiliki antarmuka teks melalui terminal.
 
-Catatan: Ketika daftar belanja kosong, hanya opsi "Tambah Item" dan "Keluar" yang tersedia. Setelah ada item dalam daftar belanja, semua menu utama (1-6) beserta "Keluar" akan muncul.
+## Fitur Utama
+
+1. **Penanganan Transaksi:**
+   - Program ini menyediakan fungsi untuk menambahkan item ke dalam transaksi, mengupdate item, menghapus item, dan mereset transaksi.
+   - Pengguna dapat memasukkan nama item, jumlah, dan harga per item saat menambahkan item.
+   - Untuk mengupdate item, pengguna dapat memilih opsi untuk mengupdate nama item, jumlah, atau harga per item.
+   - Program juga memungkinkan pengguna untuk menghapus item yang telah ditambahkan.
+
+2. **Pengecekan dan Struk Pembayaran:**
+   - Terdapat fungsi untuk menampilkan keseluruhan item yang telah ditambahkan untuk memeriksa pesanan.
+   - Fungsi lainnya menghitung total harga transaksi dengan mempertimbangkan diskon berdasarkan jumlah belanja.
+   - Program mencetak struk pembayaran dengan rincian item, total harga sebelum diskon, diskon yang diterima, total harga setelah diskon, jumlah uang yang dibayarkan, dan kembalian (jika ada).
+
+3. **Diskon Berdasarkan Jumlah Belanja:**
+   - Program memberikan diskon berdasarkan jumlah total belanja, dengan batasan diskon tertentu untuk setiap kisaran total belanja.
+
+4. **Manajemen Transaksi:**
+   - Transaksi dapat di-reset, sehingga pengguna dapat memulai transaksi baru setelah pembayaran selesai.
+
+5. **Antarmuka Pengguna:**
+   - Pengguna dapat memilih berbagai opsi melalui antarmuka teks yang disediakan di terminal.
+   - Program memberikan umpan balik jika terjadi kesalahan input.
+
+## Cara Penggunaan
+
+1. Jalankan program dengan menjalankan file yang berisi kode (`main.py`).
+2. Pilih menu yang sesuai dengan tugas yang ingin dilakukan (tambah item, update item, hapus item, reset transaksi, cek pesanan, bayar, atau keluar).
+3. Ikuti petunjuk yang diberikan oleh program untuk setiap operasi yang dipilih.
+4. Setelah selesai, program dapat dihentikan dengan memilih opsi keluar.
+
+## Catatan
+
+- Pastikan untuk memberikan input sesuai dengan petunjuk yang diberikan oleh program.
+- Jika terjadi kesalahan, program memberikan pesan error yang menjelaskan penyebab kesalahan.
+- Program ini memberikan layanan sederhana untuk kasir dengan fungsionalitas dasar untuk mengelola transaksi dan pembayaran.
+

@@ -1,4 +1,4 @@
-![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/07d02c01-fa47-410d-b73a-9c63031937ab)# PROJECT CASHIER
+# PROJECT CASHIER
 
 ## A. Latar Belakang Masalah
 Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di supermarketnya. Pelanggan dapat memasukkan item yang dibeli, jumlahnya, harga, dan menggunakan fitur lainnya.

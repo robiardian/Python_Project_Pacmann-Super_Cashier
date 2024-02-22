@@ -1,4 +1,4 @@
-# PROJECT CASHIER
+![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/07d02c01-fa47-410d-b73a-9c63031937ab)# PROJECT CASHIER
 
 ## A. Latar Belakang Masalah
 Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di supermarketnya. Pelanggan dapat memasukkan item yang dibeli, jumlahnya, harga, dan menggunakan fitur lainnya.
@@ -27,6 +27,8 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
 
 ## D. Flowchart program
 [link flowchart]
+![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/e93cb430-78a5-420d-8735-4abeed08bd95)
+
 
 ## E. Function atau atribut yang dibuat
 
@@ -50,27 +52,47 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
    - User menambahkan dua item baru menggunakan `add_item()`.
      - Nama item: Pasta Gigi, Qty: 2, Harga: 5000
      - Nama item: Body Lotion, Qty: 3, Harga: 12000
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/3b41221e-44d6-40fa-a097-b575c224e1c1)
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/a22add62-7bb2-4abc-a2cc-d3b9f8530a4f)
+
 
 2. **Test 2**
    - Menggunakan `update_item()` dan `update_item_name()` untuk memperbaiki nama item yang salah.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/7da16a34-f19a-4fb0-8973-6797a69dd55d)
 
 3. **Test 3**
    - Menggunakan `update_item()` dan `update_item_qty()` untuk memperbaiki jumlah item yang salah.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/341e4855-561b-4bc4-9296-8b7c81eae99b)
+
 
 4. **Test 4**
    - Menggunakan `update_item()` dan `update_item_price()` untuk memperbaiki harga item yang salah.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/25234a06-393d-4d8d-86c0-9bc77f34463d)
+
 
 5. **Test 5**
    - Menggunakan `delete_item()` untuk menghapus item yang salah dimasukkan.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/8d5c3ee1-cff9-475e-8223-acce74a3b60f)
 
 6. **Test 6**
    - Menggunakan `reset_transaction()` untuk menghapus semua item yang sudah ditambahkan.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/998bb389-ed32-4cdf-878f-96e7c04d442d)
 
 7. **Test 7**
    - Menggunakan `check_order()` untuk memeriksa item yang telah diinputkan setelah di-reset.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/77208d07-77f3-450e-8d1b-7e9b2fa04f4a)
 
 8. **Test 8**
    - Menggunakan `total_price()` untuk menghitung total belanja.
+   Output :
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/708903c1-f44d-4037-b0d6-39e39688f99c)
 
 ## Kesimpulan
 

@@ -26,7 +26,7 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
    - `total_price()`
 
 ## D. Flowchart program
-[link flowchart]
+[link flowchart : https://app.diagrams.net/#G1zNwEM2BBjJyKWyv1jfpzTf8P8ytEfKnO ]
 ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/e93cb430-78a5-420d-8735-4abeed08bd95)
 
 
@@ -51,11 +51,11 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
 1. **Test 1**
    - User menambahkan dua item baru menggunakan `add_item()`.
      - Nama item: Pasta Gigi, Qty: 2, Harga: 5000
+     - ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/67ce5b60-7cae-4773-acf2-4dcb8da5fb38)
      - Nama item: Body Lotion, Qty: 3, Harga: 12000
-   Output :
-   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/a4204d02-ff56-4cdb-b218-1ff11a4491e3)
+     - ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/d697c3ec-a9b7-42e5-bfa9-4237fa612392)
 
-   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/83556174-5271-46b5-88c5-690412f874d6)
+    
 
 2. **Test 2**
    - Menggunakan `update_item()` dan `update_item_name()` untuk memperbaiki nama item yang salah.

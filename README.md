@@ -11,7 +11,7 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
 
 ## C. Requirement / Objectives Program
 1. Membuat id customer
-   - `Trnsct_123 = Transaction()`
+   - `generate_transaction_id = Transaction()`
 2. Menambahkan item:
    - `add_item([<nama item>, <jumlah item>, <harga per item>])`
 3. Update item jika terjadi kesalahan:

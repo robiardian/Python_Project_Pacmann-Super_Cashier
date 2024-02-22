@@ -24,7 +24,10 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
    - `check_order()`
 6. Menghitung total belanja:
    - `total_price()`
-
+     ## Objectives
+   ###Menggunakan Python untuk membuat program kasir otomatis yang memungkinkan pengguna untuk melakukan operasi tambah, update, hapus, reset transaksi, check order, dan melakukan pembayaran.
+   ###Memberikan pengalaman pengguna yang baik dengan antarmuka yang interaktif dan pemberian informasi yang jelas.
+   ###Memastikan keamanan data dan menjaga integritas transaksi selama proses.
 ## D. Flowchart program
 [link flowchart : https://app.diagrams.net/#G1zNwEM2BBjJyKWyv1jfpzTf8P8ytEfKnO ]
 ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/e93cb430-78a5-420d-8735-4abeed08bd95)
@@ -125,10 +128,12 @@ Program ini adalah implementasi sederhana dari sistem kasir yang memungkinkan pe
 
 ## Cara Penggunaan
 
-1. Jalankan program dengan menjalankan file yang berisi kode (`main.py`).
-2. Pilih menu yang sesuai dengan tugas yang ingin dilakukan (tambah item, update item, hapus item, reset transaksi, cek pesanan, bayar, atau keluar).
-3. Ikuti petunjuk yang diberikan oleh program untuk setiap operasi yang dipilih.
-4. Setelah selesai, program dapat dihentikan dengan memilih opsi keluar.
+1. Pastikan Python 3.x terpasang di sistem Anda.
+2. Instal modul tabulate dengan menjalankan perintah pip install tabulate.
+3. Jalankan program dengan menjalankan file yang berisi kode (`main.py`).
+4. Pilih menu yang sesuai dengan tugas yang ingin dilakukan (tambah item, update item, hapus item, reset transaksi, cek pesanan, bayar, atau keluar).
+5. Ikuti petunjuk yang diberikan oleh program untuk setiap operasi yang dipilih.
+6. Setelah selesai, program dapat dihentikan dengan memilih opsi keluar.
 
 ## Catatan
 

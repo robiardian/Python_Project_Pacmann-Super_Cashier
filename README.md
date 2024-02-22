@@ -53,9 +53,9 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
      - Nama item: Pasta Gigi, Qty: 2, Harga: 5000
      - Nama item: Body Lotion, Qty: 3, Harga: 12000
    Output :
-   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/3b41221e-44d6-40fa-a097-b575c224e1c1)
-   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/a22add62-7bb2-4abc-a2cc-d3b9f8530a4f)
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/a4204d02-ff56-4cdb-b218-1ff11a4491e3)
 
+   ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/83556174-5271-46b5-88c5-690412f874d6)
 
 2. **Test 2**
    - Menggunakan `update_item()` dan `update_item_name()` untuk memperbaiki nama item yang salah.

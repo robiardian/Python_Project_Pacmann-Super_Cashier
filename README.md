@@ -128,7 +128,7 @@ Program ini adalah implementasi sederhana dari sistem kasir yang memungkinkan pe
 
 ## Cara Penggunaan
 
-1. Pastikan Python 3.x terpasang di sistem Anda.
+1. Pastikan Python terpasang di sistem Anda.
 2. Instal modul tabulate dengan menjalankan perintah pip install tabulate.
 3. Jalankan program dengan menjalankan file yang berisi kode (`main.py`).
 4. Pilih menu yang sesuai dengan tugas yang ingin dilakukan (tambah item, update item, hapus item, reset transaksi, cek pesanan, bayar, atau keluar).

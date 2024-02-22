@@ -24,10 +24,10 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
    - `check_order()`
 6. Menghitung total belanja:
    - `total_price()`
-     ## Objectives
-   ###Menggunakan Python untuk membuat program kasir otomatis yang memungkinkan pengguna untuk melakukan operasi tambah, update, hapus, reset transaksi, check order, dan melakukan pembayaran.
-   ###Memberikan pengalaman pengguna yang baik dengan antarmuka yang interaktif dan pemberian informasi yang jelas.
-   ###Memastikan keamanan data dan menjaga integritas transaksi selama proses.
+## Objectives
+###Menggunakan Python untuk membuat program kasir otomatis yang memungkinkan pengguna untuk melakukan operasi tambah, update, hapus, reset transaksi, check order, dan melakukan pembayaran.
+###Memberikan pengalaman pengguna yang baik dengan antarmuka yang interaktif dan pemberian informasi yang jelas.
+###Memastikan keamanan data dan menjaga integritas transaksi selama proses.
 ## D. Flowchart program
 [link flowchart : https://app.diagrams.net/#G1zNwEM2BBjJyKWyv1jfpzTf8P8ytEfKnO ]
 ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/e93cb430-78a5-420d-8735-4abeed08bd95)

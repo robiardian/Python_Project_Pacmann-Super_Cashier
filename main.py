@@ -12,6 +12,7 @@ if __name__ == "__main__":
         '6': transaction.total_price,
         '7': lambda: print("Terima kasih telah menggunakan program kasir.")
     }
+    
     while True:
         if len(transaction.transaction_data) == 0:
             print("")

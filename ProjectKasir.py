@@ -9,7 +9,8 @@ class Transaction:
       dan menghasilkan ID transaksi baru.
 
       Parameter:
-        transaction_data (dic(dic)): id transaksi sebelum transaksi id di reset
+        transaction_data (dic(dic)): penyimpanan data dalam sistem
+        transaction_id : id transaksi 
       """
       self.transaction_data = {}
       self.transaction_id = Transaction.generate_transaction_id()

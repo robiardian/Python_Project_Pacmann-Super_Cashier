@@ -29,7 +29,7 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
 - Memberikan pengalaman pengguna yang baik dengan antarmuka yang interaktif dan pemberian informasi yang jelas.
 - Memastikan keamanan data dan menjaga integritas transaksi selama proses.
 ## D. Flowchart program
-[link flowchart : https://app.diagrams.net/#G1zNwEM2BBjJyKWyv1jfpzTf8P8ytEfKnO ]
+[link flowchart : https://drive.google.com/file/d/1zNwEM2BBjJyKWyv1jfpzTf8P8ytEfKnO/view?usp=sharing ]
 ![image](https://github.com/robiardian/Python_Project_Pacmann-Super_Cashier/assets/75802585/e93cb430-78a5-420d-8735-4abeed08bd95)
 
 
